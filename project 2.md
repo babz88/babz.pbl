@@ -1,0 +1,6 @@
+#WEB STACK IMPLEMENTATION (LEMP STACK)
+![Screenshot 2021-04-09 020147](https://user-images.githubusercontent.com/82029504/114525823-54d3bc80-9c3e-11eb-91f1-607e3c5d50d6.png)
+![Screenshot 2021-04-09 020227](https://user-images.githubusercontent.com/82029504/114525942-716ff480-9c3e-11eb-849e-6acf4d427fe9.png)
+![Screenshot 2021-04-09 023218](https://user-images.githubusercontent.com/82029504/114526072-8f3d5980-9c3e-11eb-8e8c-5ae5899b1460.png)
+![Screenshot 2021-04-09 025001](https://user-images.githubusercontent.com/82029504/114526184-a67c4700-9c3e-11eb-945f-b8104664e95b.png)
+![Screenshot 2021-04-12 121534](https://user-images.githubusercontent.com/82029504/114526307-c6136f80-9c3e-11eb-8088-fa9d345ca78a.png)
